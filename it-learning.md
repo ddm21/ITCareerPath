@@ -13,7 +13,7 @@
 - DIY Firewall / Mini Server -  https://amzn.in/d/9j9lnCQ ( Sophos as Firewall and HyperV for VMs )
 - Monitor your Network - https://www.networknotepad.com/index.shtml
 #
-# Learning Networking and Security
+# Learn Networking and Security and System Administration
 
 - Basics of Ethernet Cable Coding -https://incentre.net/ethernet-cable-color-coding-diagram
 - Wire Up Ethernet Cable to Connector -https://youtu.be/NWhoJp8UQpo?feature=shared
