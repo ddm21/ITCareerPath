@@ -64,17 +64,17 @@
 #
 # Job Opportunities
 
-After learning CCNA, CompTIA A+, Active Directory, Windows Server, Firewall Management, and Hardware Networking, you can apply for various entry-level IT roles. These include:
+**After learning CCNA, CompTIA A+, Active Directory, Windows Server, Firewall Management, and Hardware Networking, you can apply for various entry-level IT roles. These include:**
 
-IT Support Specialist: Help users with technical issues.
-Help Desk Technician: Provide remote or in-person technical support.
-Network Administrator: Manage and optimize networks.
-System Engineer: Design and manage IT systems.
-Service Desk Analyst: Provide technical support to end users.
-Associate Network Engineer: Assist in network solution design.
-Desktop Support Administrator: Provide technical support and manage user accounts.
+- IT Support Specialist: Help users with technical issues.
+- Help Desk Technician: Provide remote or in-person technical support.
+- Network Administrator: Manage and optimize networks.
+- System Engineer: Design and manage IT systems.
+- Service Desk Analyst: Provide technical support to end users.
+- Associate Network Engineer: Assist in network solution design.
+- Desktop Support Administrator: Provide technical support and manage user accounts.
 
-Information Technology Roles:
+**Information Technology Roles:**
 
 1. Network Administrator
 2. Cloud Engineer
