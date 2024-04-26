@@ -13,7 +13,7 @@
 - DIY Firewall / Mini Server -  https://amzn.in/d/9j9lnCQ ( Sophos as Firewall and HyperV for VMs )
 - Monitor your Network - https://www.networknotepad.com/index.shtml
 
-
+#
 # Learning Networking and Security
 ----------------------------------------------------------
 
@@ -105,8 +105,8 @@ Explore these educational resources to enhance your understanding of networking 
 28. **How to create a pfSense Firewall in Hyper-V**
    - [Installing pfsense free firewall for homelabs](https://youtu.be/U7gJ1eOkIOM)
 
-
-## All about Subnet Mask
+#
+# All about Subnet Mask
 ----------------------------------------------------------
 
 1. **255.255.255.0 (or /24)**:
@@ -149,7 +149,7 @@ Explore these educational resources to enhance your understanding of networking 
 - [Subnet Cheat Sheet – 24 Subnet Mask, 30, 26, 27, 29, and other IP](https://www.freecodecamp.org/news/subnet-cheat-sheet-24-subnet-mask-30-26-27-29-and-other-ip-address-cidr-network-references/)
 - [IP Subnet Calculator](https://www.calculator.net/ip-subnet-calculator.html)
 
-
+#
 # Job Opportunities
 ----------------------------------------------------------
 
