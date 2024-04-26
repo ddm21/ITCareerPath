@@ -1,5 +1,5 @@
 # Home Networking Setup
----
+-
 
 - TP Link - 8 Port Switch Managed - https://amzn.eu/d/7x3J5HT
 - TP Link - 8 Port Switch Unmanaged 10/100Mbps - https://amzn.eu/d/fxlTuCV
