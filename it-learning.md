@@ -1,5 +1,6 @@
+#
 # Home Networking Setup
---
+#
 
 - TP Link - 8 Port Switch Managed - https://amzn.eu/d/7x3J5HT
 - TP Link - 8 Port Switch Unmanaged 10/100Mbps - https://amzn.eu/d/fxlTuCV
@@ -15,7 +16,7 @@
 
 #
 # Learning Networking and Security
-----------------------------------------------------------
+#
 
 Explore these educational resources to enhance your understanding of networking and security topics:
 
@@ -107,7 +108,7 @@ Explore these educational resources to enhance your understanding of networking 
 
 #
 # All about Subnet Mask
-----------------------------------------------------------
+#
 
 1. **255.255.255.0 (or /24)**:
    - This subnet mask allows for **254 usable IP addresses** within the same network.
@@ -151,7 +152,7 @@ Explore these educational resources to enhance your understanding of networking 
 
 #
 # Job Opportunities
-----------------------------------------------------------
+#
 
 **After learning CCNA, CompTIA A+, Active Directory, Windows Server, Firewall Management, and Hardware Networking, you can apply for various entry-level IT roles. These include:**
 
