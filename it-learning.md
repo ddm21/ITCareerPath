@@ -15,91 +15,35 @@
 #
 # Learning Networking and Security
 
-1. **Basics of Ethernet Cable Coding**
-- [Learn about Ethernet cable color coding: Ethernet Cable Color Coding Diagram](https://incentre.net/ethernet-cable-color-coding-diagram/)
-
-2. **Wire Up Ethernet Cable to Connector**
-- [Watch a tutorial on connecting Ethernet cables: Wire Up Ethernet Cable Tutorial](https://youtu.be/NWhoJp8UQpo?feature=shared)
-
-3. **Share a USB Printer In Network**
-- [Discover how to share a USB printer across a network: USB Printer Sharing Tutorial](https://youtu.be/_s3yNROUmPk)
-
-4. **Advanced Smart Home Security - VLANs and Firewalls**
-- [Dive into smart home security using VLANs and firewalls: Smart Home Security Tutorial](https://www.youtube.com/watch?v=eqr-vTC7EVk)
-
-5. **Data Loss Policy (DLP)**
-- [Understand Data Loss Prevention (DLP): DLP Overview](https://youtu.be/3l5btGWh4pM)
-
-6. **OpenDLP – Free & Open-Source DLP Tool**
-- [Explore OpenDLP for data loss prevention: OpenDLP Tutorial](https://youtu.be/F9w3NSS0UlY)
-
-7. **OpenLDAP Tutorial**
-- [Learn about OpenLDAP: OpenLDAP Tutorial](https://youtu.be/5lHRuHA4TiE)
-
-8. **pfSense: Open Source Firewall and Routing System**
-- [Set up pfSense for robust network security: pfSense Tutorial](https://www.youtube.com/watch?v=DGdfHp6uAGg)
-
-9. **Home Lab Network Security!**
-- [Secure your home lab with VLANs, firewalls, and micro-segmentation: Home Lab Security Tutorial](https://www.youtube.com/watch?v=YMHN6Tnah1w)
-
-10. **Creating a File Server for a Small Company**
-- [Build a file server tailored for small businesses: File Server Tutorial](https://www.youtube.com/watch?v=6x4-vNmzuqU)
-
-11. **Subnet Mask Basics**
-- [Understand subnet masks: Subnet Mask Tutorial](https://www.youtube.com/watch?v=s_Ntt6eTn94)
-
-12. **Configuring VLANs**
-- [Configure VLANs effectively: VLAN Configuration Tutorial](https://youtu.be/72037i0pkMA)
-
-13. **VLAN Made Easy**
-- [Simplify VLAN concepts: VLAN Made Easy Tutorial](https://youtu.be/JszGeQPTo4w)
-
-14. **Installing Sophos**
-- [Install Sophos for network security: Sophos Installation Guide](https://youtu.be/NebZxbOIlH4)
-
-15. **Sophos XG Full Tutorial**
-- [Explore Sophos XG features: Sophos XG Tutorial](https://www.youtube.com/watch?v=KmnKfCTSt6g&list=PLW7Uff4NY2n-oJ2nxiSAXW2mb86POx6oU)
-
-16. **CompTIA A+ Certification**
-- [Prepare for CompTIA A+ certification: CompTIA A+ Course 1](https://youtu.be/2eLe7uz-7CM)
-- [Prepare for CompTIA A+ certification: CompTIA A+ Course 2](https://youtu.be/XSlxETFKXg0)
-
-17. **Fortigate Firewall**
-- [Master Fortigate firewall administration 1](https://www.youtube.com/watch?v=gqE7WMEEY_4&list=PLaUiizP3D7fMvOsxFInBKquo-_s05jx4v)
-- [Master Fortigate firewall administration 2](https://www.youtube.com/watch?v=XcghOBrZANc&list=PLlEVCBdM7ELOSd9zLJNE3FrIMzZiWlSkm)
-
-18. **Install and Setup Fortigate Evaluation On Hyper-V / Vmware**
-- [Set up Fortigate on Hyper-V: Fortigate Setup Tutorial](https://youtu.be/QIQ4HHFtAMw)
-
-19. **GNS3 Labs for CCNA 200-301**
-- [Practice CCNA labs using GNS3: CCNA Labs Playlist](https://youtube.com/playlist?list=PLhHT1w6sU7CNz2hDXrzKjGvufwMqx5a4j)
-
-20. **Complete Network Configuration**
-- [Comprehensive network configuration guide: Network Configuration Tutorial](https://youtu.be/de7axFBMayk)
-
-21. **CCNA 200-301 Complete Course**
-- [Prepare for the CCNA 200-301 exam:](https://youtube.com/playlist?list=PLN0OCwSZePjdHb33bAfU0oQ0zWb4w2RDK)
-   
-22. **CCNA 200-301 Complete Course**
-- [Top IT Certifications to do in 2024](https://youtu.be/EF8FKwA-hrE)
-
-23. **Windows Server 2022 Tutorial**
-- [Learn all about windows server administration](https://youtube.com/playlist?list=PLUZTRmXEpBy1AdznospPeOSyoYBMQLh2r)
-
-24. **Installing SAP B1**
-- [Learn to install SAP B1 on Server and Client on Windows Server](https://youtu.be/PhTuzMXUgOc)
-
-25. **Hyper V Network Configuration**
-- [Learn how to setup HyperV](https://youtu.be/kHXxNQaiapw)
-
-26. **Hyper V Network Configuration**
-- [How to Setup Hyper V on Windows](https://www.youtube.com/watch?v=FCIA4YQHx9U)
-
-27. **Hyper-v Easy Fix**
-- [How to remove the External Switch which is unable to delete in HyperV](https://learn.microsoft.com/en-us/troubleshoot/windows-client/virtualization/cannot-create-hyper-v-virtual-switch)
-
-28. **How to create a pfSense Firewall in Hyper-V**
-- [Installing pfsense free firewall for homelabs](https://youtu.be/U7gJ1eOkIOM)
+- Basics of Ethernet Cable Coding -https://incentre.net/ethernet-cable-color-coding-diagram
+- Wire Up Ethernet Cable to Connector -https://youtu.be/NWhoJp8UQpo?feature=shared
+- Share a USB Printer In Network - https://youtu.be/_s3yNROUmPk
+- Advanced Smart Home Security - VLANs and Firewalls - https://www.youtube.com/watch?v=eqr-vTC7EVk
+- Data Loss Policy (DLP) - https://youtu.be/3l5btGWh4pM
+- OpenDLP – Free & Open-Source DLP Tool - https://youtu.be/F9w3NSS0UlY
+- OpenLDAP Tutorial = https://youtu.be/5lHRuHA4TiE
+- pfSense: Open Source Firewall and Routing System -https://www.youtube.com/watch?v=DGdfHp6uAGg
+- Home Lab Network Security - https://www.youtube.com/watch?v=YMHN6Tnah1w
+- Creating a File Server for a Small Company - https://www.youtube.com/watch?v=6x4-vNmzuqU
+- Understand subnet masks - https://www.youtube.com/watch?v=s_Ntt6eTn94
+- Configure VLANs effectively - https://youtu.be/72037i0pkMA
+- Simplify VLAN concepts - https://youtu.be/JszGeQPTo4w
+- Installing Sophos - https://youtu.be/NebZxbOIlH4
+- ophos XG Full Tutorial - https://www.youtube.com/watch?v=KmnKfCTSt6g&list=PLW7Uff4NY2n-oJ2nxiSAXW2mb86POx6oU
+- CompTIA A+ Course - https://youtu.be/2eLe7uz-7CM / https://youtu.be/XSlxETFKXg0
+- Fortigate Firewall
+  - [Master Fortigate firewall administration 1](https://www.youtube.com/watch?v=gqE7WMEEY_4&list=PLaUiizP3D7fMvOsxFInBKquo-_s05jx4v)
+  - [Master Fortigate firewall administration 2](https://www.youtube.com/watch?v=XcghOBrZANc&list=PLlEVCBdM7ELOSd9zLJNE3FrIMzZiWlSkm)
+- Install and Setup Fortigate Evaluation On Hyper-V / Vmware - https://youtu.be/QIQ4HHFtAMw
+- Practice CCNA labs using GNS3 - https://youtube.com/playlist?list=PLhHT1w6sU7CNz2hDXrzKjGvufwMqx5a4j
+- Comprehensive network configuration guide - https://youtu.be/de7axFBMayk
+- CCNA 200-301 Complete Course - https://youtube.com/playlist?list=PLN0OCwSZePjdHb33bAfU0oQ0zWb4w2RDK
+- CCNA 200-301 Complete Course -https://youtu.be/EF8FKwA-hrE
+- Windows Server 2022 Tutorial - https://youtube.com/playlist?list=PLUZTRmXEpBy1AdznospPeOSyoYBMQLh2r
+- Installing SAP B1- https://youtu.be/PhTuzMXUgOc
+- Hyper V Network Configuration -https://youtu.be/kHXxNQaiapw / https://www.youtube.com/watch?v=FCIA4YQHx9U
+- [Hyper-v Easy Fix ](https://learn.microsoft.com/en-us/troubleshoot/windows-client/virtualization/cannot-create-hyper-v-virtual-switch)
+- How to create a pfSense Firewall in Hyper-V - https://youtu.be/U7gJ1eOkIOM)
 #
 # All about Subnet Mask
 
@@ -120,17 +64,17 @@
 #
 # Job Opportunities
 
-**After learning CCNA, CompTIA A+, Active Directory, Windows Server, Firewall Management, and Hardware Networking, you can apply for various entry-level IT roles. These include:**
+After learning CCNA, CompTIA A+, Active Directory, Windows Server, Firewall Management, and Hardware Networking, you can apply for various entry-level IT roles. These include:
 
-**IT Support Specialist**: Help users with technical issues.
-**Help Desk Technician**: Provide remote or in-person technical support.
-**Network Administrator**: Manage and optimize networks.
-**System Engineer**: Design and manage IT systems.
-**Service Desk Analyst**: Provide technical support to end users.
-**Associate Network Engineer**: Assist in network solution design.
-**Desktop Support Administrator**: Provide technical support and manage user accounts.
+IT Support Specialist: Help users with technical issues.
+Help Desk Technician: Provide remote or in-person technical support.
+Network Administrator: Manage and optimize networks.
+System Engineer: Design and manage IT systems.
+Service Desk Analyst: Provide technical support to end users.
+Associate Network Engineer: Assist in network solution design.
+Desktop Support Administrator: Provide technical support and manage user accounts.
 
-**Information Technology Roles:**
+Information Technology Roles:
 
 1. Network Administrator
 2. Cloud Engineer
