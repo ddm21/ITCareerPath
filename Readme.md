@@ -1,3 +1,5 @@
+## A collection of resources for learning networking, security, system administration, and preparing for IT roles like Network Administrator, System Engineer, and more.
+
 #
 # Home Networking Setup
 
