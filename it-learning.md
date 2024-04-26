@@ -1,4 +1,4 @@
-# Home Networking Setup
+> Home Networking Setup
 ----------------------------------------------------------
 
 - TP Link - 8 Port Switch Managed - https://amzn.eu/d/7x3J5HT
