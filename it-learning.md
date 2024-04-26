@@ -1,4 +1,6 @@
-## Home Networking Setup
+----------------------------------------------------------
+# Home Networking Setup
+----------------------------------------------------------
 
 TP Link - 8 Port Switch Managed - https://amzn.eu/d/7x3J5HT
 TP Link - 8 Port Switch Unmanaged 10/100Mbps - https://amzn.eu/d/fxlTuCV
@@ -10,8 +12,9 @@ Switch Manager Box - https://amzn.eu/d/6s5KKlD
 Networking Tools - https://www.vcelink.com/
 DIY Firewall / Mini Server -  https://amzn.in/d/9j9lnCQ ( Sophos as Firewall and HyperV for VMs )
 
-
-## Learning Networking and Security
+----------------------------------------------------------
+# Learning Networking and Security
+----------------------------------------------------------
 
 Explore these educational resources to enhance your understanding of networking and security topics:
 
@@ -83,8 +86,9 @@ Explore these educational resources to enhance your understanding of networking 
 22. **CCNA 200-301 Complete Course**
     - [Top IT Certifications to do in 2024](https://youtu.be/EF8FKwA-hrE)
 
-
+----------------------------------------------------------
 ## All about Subnet Mask
+----------------------------------------------------------
 
 1. **255.255.255.0 (or /24)**:
    - This subnet mask allows for **254 usable IP addresses** within the same network.
