@@ -21,6 +21,9 @@
 - Wire Up Ethernet Cable to Connector -https://youtu.be/NWhoJp8UQpo?feature=shared
 - Share a USB Printer In Network - https://youtu.be/_s3yNROUmPk
 - Advanced Smart Home Security - VLANs and Firewalls - https://www.youtube.com/watch?v=eqr-vTC7EVk
+- Configure VLANs effectively - https://youtu.be/72037i0pkMA
+- Simplify VLAN concepts - https://youtu.be/JszGeQPTo4w
+- How-to Design and Configure a Home or Small Office Network - https://www.youtube.com/watch?v=Y1LZhNIJxq4
 - Data Loss Policy (DLP) - https://youtu.be/3l5btGWh4pM
 - OpenDLP – Free & Open-Source DLP Tool - https://youtu.be/F9w3NSS0UlY
 - OpenLDAP Tutorial = https://youtu.be/5lHRuHA4TiE
@@ -28,8 +31,6 @@
 - Home Lab Network Security - https://www.youtube.com/watch?v=YMHN6Tnah1w
 - Creating a File Server for a Small Company - https://www.youtube.com/watch?v=6x4-vNmzuqU
 - Understand subnet masks - https://www.youtube.com/watch?v=s_Ntt6eTn94
-- Configure VLANs effectively - https://youtu.be/72037i0pkMA
-- Simplify VLAN concepts - https://youtu.be/JszGeQPTo4w
 - Installing Sophos - https://youtu.be/NebZxbOIlH4
 - ophos XG Full Tutorial - https://www.youtube.com/watch?v=KmnKfCTSt6g&list=PLW7Uff4NY2n-oJ2nxiSAXW2mb86POx6oU
 - CompTIA A+ Course - https://youtu.be/2eLe7uz-7CM / https://youtu.be/XSlxETFKXg0
