@@ -37,8 +37,9 @@ A collection of resources for learning networking, security, system administrati
 - Install and Setup Fortigate Evaluation On Hyper-V / Vmware - https://youtu.be/QIQ4HHFtAMw
 - Practice CCNA labs using GNS3 - https://youtube.com/playlist?list=PLhHT1w6sU7CNz2hDXrzKjGvufwMqx5a4j
 - Comprehensive network configuration guide - https://youtu.be/de7axFBMayk
-- CCNA 200-301 Complete Course - https://youtube.com/playlist?list=PLN0OCwSZePjdHb33bAfU0oQ0zWb4w2RDK
-- CCNA 200-301 Complete Course -https://youtu.be/EF8FKwA-hrE
+- CCNA 200-301 Complete Course 1 - https://youtube.com/playlist?list=PLN0OCwSZePjdHb33bAfU0oQ0zWb4w2RDK
+- CCNA 200-301 Complete Course 2 - https://youtu.be/EF8FKwA-hrE
+- CCNA 200-301 Complete Course 3 - https://youtube.com/playlist?list=PLhfrWIlLOoKPc2RecyiM_A9nf3fUU3e6g
 - Hyper V Network Configuration -https://youtu.be/kHXxNQaiapw / https://www.youtube.com/watch?v=FCIA4YQHx9U
 - [Hyper-v Easy Fix ](https://learn.microsoft.com/en-us/troubleshoot/windows-client/virtualization/cannot-create-hyper-v-virtual-switch)
 - How to create a pfSense Firewall in Hyper-V - https://youtu.be/U7gJ1eOkIOM
