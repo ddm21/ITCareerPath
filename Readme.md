@@ -61,6 +61,7 @@
 - [Class A Public & Private IP Address Range - Meridian Outpost](https://www.meridianoutpost.com/resources/articles/IP-classes.php)
 - [Subnet Cheat Sheet – 24 Subnet Mask, 30, 26, 27, 29, and other IP](https://www.freecodecamp.org/news/subnet-cheat-sheet-24-subnet-mask-30-26-27-29-and-other-ip-address-cidr-network-references/)
 - [IP Subnet Calculator](https://www.calculator.net/ip-subnet-calculator.html)
+- [IP CIDR Calcualtor](https://www.ipaddressguide.com/cidr)
 #
 # Job Opportunities
 
