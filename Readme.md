@@ -49,6 +49,8 @@ A collection of resources for learning networking, security, system administrati
 - Installing SAP B1- https://youtu.be/PhTuzMXUgOc
 - Best Free Windows Firewall - https://www.youtube.com/watch?v=qY0XPUJulbE
 - FREE CyberSecurity Tool SEIM [Security Information & Event Managment](https://www.youtube.com/watch?v=3CaG2GI1kn0)
+- Quick and Easy Local SSL Certificates for Your Homelab! - https://www.youtube.com/watch?v=qlcVx-k-02E
+- How to Configure VLAN in Windows 11, 10, 8 & 7 - https://www.youtube.com/watch?v=72037i0pkMA
 
 # All about Subnet Mask
 
