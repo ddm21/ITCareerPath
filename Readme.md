@@ -43,6 +43,7 @@ A collection of resources for learning networking, security, system administrati
 - Hyper V Network Configuration -https://youtu.be/kHXxNQaiapw / https://www.youtube.com/watch?v=FCIA4YQHx9U
 - [Hyper-v Easy Fix ](https://learn.microsoft.com/en-us/troubleshoot/windows-client/virtualization/cannot-create-hyper-v-virtual-switch)
 - How to create a pfSense Firewall in Hyper-V - https://youtu.be/U7gJ1eOkIOM
+- Real-World Networking Projects - https://www.youtube.com/playlist?list=PLvUOx2WG6R7PlKlERb5zceXxHfC4P7gJn
 
 # Other Tutorial
 
