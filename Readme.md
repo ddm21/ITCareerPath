@@ -14,7 +14,7 @@
 - Home Security Firewall - https://firewalla.com/collections/all/firewalla
 - DIY Firewall / Mini Server -  https://amzn.in/d/9j9lnCQ ( Sophos as Firewall and HyperV for VMs )
 - Monitor your Network - https://www.networknotepad.com/index.shtml
-#
+
 # Learn Networking and Security and System Administration
 
 - Basics of Ethernet Cable Coding -https://incentre.net/ethernet-cable-color-coding-diagram
@@ -39,12 +39,16 @@
 - Comprehensive network configuration guide - https://youtu.be/de7axFBMayk
 - CCNA 200-301 Complete Course - https://youtube.com/playlist?list=PLN0OCwSZePjdHb33bAfU0oQ0zWb4w2RDK
 - CCNA 200-301 Complete Course -https://youtu.be/EF8FKwA-hrE
-- Windows Server 2022 Tutorial - https://youtube.com/playlist?list=PLUZTRmXEpBy1AdznospPeOSyoYBMQLh2r
-- Installing SAP B1- https://youtu.be/PhTuzMXUgOc
 - Hyper V Network Configuration -https://youtu.be/kHXxNQaiapw / https://www.youtube.com/watch?v=FCIA4YQHx9U
 - [Hyper-v Easy Fix ](https://learn.microsoft.com/en-us/troubleshoot/windows-client/virtualization/cannot-create-hyper-v-virtual-switch)
-- How to create a pfSense Firewall in Hyper-V - https://youtu.be/U7gJ1eOkIOM)
-#
+- How to create a pfSense Firewall in Hyper-V - https://youtu.be/U7gJ1eOkIOM
+
+# Other Tutorial
+
+- Windows Server 2022 Tutorial - https://youtube.com/playlist?list=PLUZTRmXEpBy1AdznospPeOSyoYBMQLh2r
+- Installing SAP B1- https://youtu.be/PhTuzMXUgOc
+- Best Free Windows Firewall - https://www.youtube.com/watch?v=qY0XPUJulbE
+
 # All about Subnet Mask
 
 | Subnet Mask       | Binary Representation                  | Networks | Hosts |
@@ -62,7 +66,7 @@
 - [Subnet Cheat Sheet – 24 Subnet Mask, 30, 26, 27, 29, and other IP](https://www.freecodecamp.org/news/subnet-cheat-sheet-24-subnet-mask-30-26-27-29-and-other-ip-address-cidr-network-references/)
 - [IP Subnet Calculator](https://www.calculator.net/ip-subnet-calculator.html)
 - [IP CIDR Calcualtor](https://www.ipaddressguide.com/cidr)
-#
+
 # Job Opportunities
 
 **After learning CCNA, CompTIA A+, Active Directory, Windows Server, Firewall Management, and Hardware Networking, you can apply for various entry-level IT roles. These include:**
