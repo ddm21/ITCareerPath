@@ -48,6 +48,7 @@ A collection of resources for learning networking, security, system administrati
 - Windows Server 2022 Tutorial - https://youtube.com/playlist?list=PLUZTRmXEpBy1AdznospPeOSyoYBMQLh2r
 - Installing SAP B1- https://youtu.be/PhTuzMXUgOc
 - Best Free Windows Firewall - https://www.youtube.com/watch?v=qY0XPUJulbE
+- FREE CyberSecurity Tool SEIM [Security Information & Event Managment](https://www.youtube.com/watch?v=3CaG2GI1kn0)
 
 # All about Subnet Mask
 
