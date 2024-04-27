@@ -43,7 +43,6 @@ A collection of resources for learning networking, security, system administrati
 - Hyper V Network Configuration -https://youtu.be/kHXxNQaiapw / https://www.youtube.com/watch?v=FCIA4YQHx9U
 - [Hyper-v Easy Fix ](https://learn.microsoft.com/en-us/troubleshoot/windows-client/virtualization/cannot-create-hyper-v-virtual-switch)
 - How to create a pfSense Firewall in Hyper-V - https://youtu.be/U7gJ1eOkIOM
-- Real-World Networking Projects - https://www.youtube.com/playlist?list=PLvUOx2WG6R7PlKlERb5zceXxHfC4P7gJn
 
 # Other Tutorial
 
@@ -53,6 +52,7 @@ A collection of resources for learning networking, security, system administrati
 - FREE CyberSecurity Tool SEIM [Security Information & Event Managment](https://www.youtube.com/watch?v=3CaG2GI1kn0)
 - Quick and Easy Local SSL Certificates for Your Homelab! - https://www.youtube.com/watch?v=qlcVx-k-02E
 - How to Configure VLAN in Windows 11, 10, 8 & 7 - https://www.youtube.com/watch?v=72037i0pkMA
+- Real-World Networking Projects - https://www.youtube.com/playlist?list=PLvUOx2WG6R7PlKlERb5zceXxHfC4P7gJn
 
 # All about Subnet Mask
 
