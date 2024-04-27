@@ -3,8 +3,8 @@
 
 # Home Networking Setup
 
-- TP Link - 8 Port Switch Managed - https://amzn.eu/d/7x3J5HT
-- TP Link - 8 Port Switch Unmanaged 10/100Mbps - https://amzn.eu/d/fxlTuCV
+- TP Link TL-SG108E - 8 Port Switch Managed - https://amzn.eu/d/7x3J5HT
+- TP Link TL-SF1008D - 8 Port Switch Unmanaged 10/100Mbps - https://amzn.eu/d/fxlTuCV
 - DLink AX1500  https://amzn.eu/d/bVmtmM5
 - D-Link Lan I/O Box Combo - https://amzn.eu/d/bAA97q5
 - FEDUS Cat6 Ethernet Cable, 1 Meter - https://amzn.eu/d/1v39l3o
