@@ -24,9 +24,6 @@
 - Configure VLANs effectively - https://youtu.be/72037i0pkMA
 - Simplify VLAN concepts - https://youtu.be/JszGeQPTo4w
 - How-to Design and Configure a Home or Small Office Network - https://www.youtube.com/watch?v=Y1LZhNIJxq4
-- Data Loss Policy (DLP) - https://youtu.be/3l5btGWh4pM
-- OpenDLP – Free & Open-Source DLP Tool - https://youtu.be/F9w3NSS0UlY
-- OpenLDAP Tutorial = https://youtu.be/5lHRuHA4TiE
 - pfSense: Open Source Firewall and Routing System -https://www.youtube.com/watch?v=DGdfHp6uAGg
 - Home Lab Network Security - https://www.youtube.com/watch?v=YMHN6Tnah1w
 - Creating a File Server for a Small Company - https://www.youtube.com/watch?v=6x4-vNmzuqU
