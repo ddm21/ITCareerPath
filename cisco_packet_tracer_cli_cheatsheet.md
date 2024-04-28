@@ -1,8 +1,6 @@
-# Cisco Cheetsheet
+# Cisco CLI Reference
 
-**Cisco CLI Reference, Howtos, and Tools**
-
-_Warning, use at your own risk. I created these scripts with an educational mindset while studying for my CCNA_
+_Warning, use at your own risk. I created these scripts with an educational mindset_
 
 ## Quick Navigtation
 
