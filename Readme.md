@@ -92,3 +92,6 @@ A collection of resources for learning networking, security, system administrati
 4. Network Engineer
 5. System Administrator
 6. System Engineer
+
+- Job description of IT Specialist - https://youtu.be/vsjZvSbFtWw?feature=shared
+- https://www.comptia.org/content/it-careers-path-roadmap/it-support-specialist
