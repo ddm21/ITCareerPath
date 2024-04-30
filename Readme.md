@@ -34,6 +34,7 @@ A collection of resources for learning networking, security, system administrati
 - Fortigate Firewall
   - [Master Fortigate firewall administration 1](https://www.youtube.com/watch?v=gqE7WMEEY_4&list=PLaUiizP3D7fMvOsxFInBKquo-_s05jx4v)
   - [Master Fortigate firewall administration 2](https://www.youtube.com/watch?v=XcghOBrZANc&list=PLlEVCBdM7ELOSd9zLJNE3FrIMzZiWlSkm)
+  - [Officila Guide to Install Fortigate Firewall on Hyper-V](https://community.fortinet.com/t5/FortiGate-Cloud/Technical-Tip-Deploy-FortiGate-VM-in-Hyper-V-on-Windows-10/ta-p/224803)
 - Install and Setup Fortigate Evaluation On Hyper-V / Vmware - https://youtu.be/QIQ4HHFtAMw
 - Practice CCNA labs using GNS3 - https://youtube.com/playlist?list=PLhHT1w6sU7CNz2hDXrzKjGvufwMqx5a4j
 - Comprehensive network configuration guide - https://youtu.be/de7axFBMayk
