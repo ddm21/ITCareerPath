@@ -15,7 +15,7 @@ A collection of resources for learning networking, security, system administrati
 - DIY Firewall / Mini Server -  https://amzn.in/d/9j9lnCQ ( Sophos as Firewall and HyperV for VMs )
 - Monitor your Network - https://www.networknotepad.com/index.shtml
 
-# Learn Networking and Security and System Administration
+# Learn Networking, Security and System Administration
 
 - Basics of Ethernet Cable Coding -https://incentre.net/ethernet-cable-color-coding-diagram
 - Wire Up Ethernet Cable to Connector -https://youtu.be/NWhoJp8UQpo?feature=shared
@@ -54,6 +54,7 @@ A collection of resources for learning networking, security, system administrati
 - Quick and Easy Local SSL Certificates for Your Homelab! - https://www.youtube.com/watch?v=qlcVx-k-02E
 - How to Configure VLAN in Windows 11, 10, 8 & 7 - https://www.youtube.com/watch?v=72037i0pkMA
 - Real-World Networking Projects - https://www.youtube.com/playlist?list=PLvUOx2WG6R7PlKlERb5zceXxHfC4P7gJn
+- ITAM using Snipe-IT - [Install IT asset management software on Hyper-v](https://www.youtube.com/watch?v=WrU0t-8oSak)
 
 # All about Subnet Mask
 
