@@ -55,6 +55,7 @@ A collection of resources for learning networking, security, system administrati
 - How to Configure VLAN in Windows 11, 10, 8 & 7 - https://www.youtube.com/watch?v=72037i0pkMA
 - Real-World Networking Projects - https://www.youtube.com/playlist?list=PLvUOx2WG6R7PlKlERb5zceXxHfC4P7gJn
 - ITAM - Installing Snipe-IT - [on Ubuntu directly](https://www.youtube.com/watch?v=0SnEAQT78hs) or [on Ubuntu via Docker](https://www.youtube.com/watch?v=lyIIEVT5GYs)
+- OCS : How to build an IT asset inventory server - https://www.youtube.com/watch?v=ijOTemn1QjE
 
 # All about Subnet Mask
 
