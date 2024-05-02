@@ -3,13 +3,13 @@ A collection of resources for learning networking, security, system administrati
 
 # Home Networking Setup
 
-- TP Link TL-SG108E - 8 Port Switch Managed - https://amzn.eu/d/7x3J5HT
-- TP Link TL-SF1008D - 8 Port Switch Unmanaged 10/100Mbps - https://amzn.eu/d/fxlTuCV
-- DLink AX1500  https://amzn.eu/d/bVmtmM5
-- D-Link Lan I/O Box Combo - https://amzn.eu/d/bAA97q5
-- FEDUS Cat6 Ethernet Cable, 1 Meter - https://amzn.eu/d/1v39l3o
-- RJ45 Crimp Connectors - https://www.amazon.in/dp/B0B4H1RGVF
-- Switch Manager Box - https://amzn.eu/d/6s5KKlD
+- TP Link TL-SG108E - 8 Port Switch Managed - https://amzn.in/d/cpEYXrA
+- DLink AX1500 - https://amzn.in/d/dyfp5BM
+- D-Link Lan I/O Network Keystone Jack, Gang Box, Single Port Face Plate - https://amzn.in/d/5Irbb6L
+- FEDUS Cat6 Ethernet Cable, 1 Meter - https://amzn.in/d/deyBm30
+- RJ45 Crimp Connectors Traditional - https://www.amazon.in/dp/B0B4H1RGVF
+- RJ45 Crimp Connectors Passthrough - https://amzn.in/d/goXTZBs
+- Switch Manager Box - https://amzn.in/d/2kDAjIM
 - Networking Tools - https://www.vcelink.com/
 - Home Security Firewall - https://firewalla.com/collections/all/firewalla
 - DIY Firewall / Mini Server -  https://amzn.in/d/9j9lnCQ ( Sophos as Firewall and HyperV for VMs )
