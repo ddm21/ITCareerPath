@@ -29,7 +29,7 @@ A collection of resources for learning networking, security, system administrati
 - Creating a File Server for a Small Company - https://www.youtube.com/watch?v=6x4-vNmzuqU
 - Understand subnet masks - https://www.youtube.com/watch?v=s_Ntt6eTn94
 - Installing Sophos - https://youtu.be/NebZxbOIlH4
-- ophos XG Full Tutorial - https://www.youtube.com/watch?v=KmnKfCTSt6g&list=PLW7Uff4NY2n-oJ2nxiSAXW2mb86POx6oU
+- Sophos XG Full Tutorial - https://www.youtube.com/watch?v=KmnKfCTSt6g&list=PLW7Uff4NY2n-oJ2nxiSAXW2mb86POx6oU
 - CompTIA A+ Course - https://youtu.be/2eLe7uz-7CM / https://youtu.be/XSlxETFKXg0
 - Fortigate Firewall
   - [Master Fortigate firewall administration 1](https://www.youtube.com/watch?v=gqE7WMEEY_4&list=PLaUiizP3D7fMvOsxFInBKquo-_s05jx4v)
