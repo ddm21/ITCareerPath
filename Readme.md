@@ -57,6 +57,7 @@ A collection of resources for learning networking, security, system administrati
 - Real-World Networking Projects - https://www.youtube.com/playlist?list=PLvUOx2WG6R7PlKlERb5zceXxHfC4P7gJn
 - ITAM - Installing Snipe-IT - [on Ubuntu directly](https://www.youtube.com/watch?v=0SnEAQT78hs) or [on Ubuntu via Docker](https://www.youtube.com/watch?v=lyIIEVT5GYs)
 - OCS : How to build an IT asset inventory server - https://www.youtube.com/watch?v=ijOTemn1QjE
+- Small Office Networking - https://www.youtube.com/playlist?list=PLAHfT9Nte4YqHsYYnE5k1Eli-XCMls3Ge
 
 # All about Subnet Mask
 
