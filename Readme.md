@@ -4,6 +4,7 @@ A collection of resources for learning networking, security, system administrati
 # Home Networking Setup
 
 - TP Link TL-SG108E - 8 Port Switch Managed - https://amzn.in/d/cpEYXrA
+- [Grandstream GWN7801 Network Switches](https://www.indiamart.com/proddetail/grandstream-gwn7801-network-switches-2851866165088.html)
 - DLink AX1500 - https://amzn.in/d/dyfp5BM
 - D-Link Lan I/O Network Keystone Jack, Gang Box, Single Port Face Plate - https://amzn.in/d/5Irbb6L
 - FEDUS Cat6 Ethernet Cable, 1 Meter - https://amzn.in/d/deyBm30
