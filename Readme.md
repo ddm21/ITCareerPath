@@ -58,6 +58,7 @@ A collection of resources for learning networking, security, system administrati
 - ITAM - Installing Snipe-IT - [on Ubuntu directly](https://www.youtube.com/watch?v=0SnEAQT78hs) or [on Ubuntu via Docker](https://www.youtube.com/watch?v=lyIIEVT5GYs)
 - OCS : How to build an IT asset inventory server - https://www.youtube.com/watch?v=ijOTemn1QjE
 - Small Office Networking - https://www.youtube.com/playlist?list=PLAHfT9Nte4YqHsYYnE5k1Eli-XCMls3Ge
+- Managing Active Directory Environment - https://www.youtube.com/watch?v=sqHa2gN1HsY&list=PLUZTRmXEpBy2QDBF2cssNtYhVqcDgiRnE
 
 # All about Subnet Mask
 
