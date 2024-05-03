@@ -60,6 +60,7 @@ A collection of resources for learning networking, security, system administrati
 - ITAM - Installing Snipe-IT - [on Ubuntu directly](https://www.youtube.com/watch?v=0SnEAQT78hs) or [on Ubuntu via Docker](https://www.youtube.com/watch?v=lyIIEVT5GYs)
 - OCS : How to build an [IT asset inventory server](https://www.youtube.com/watch?v=ijOTemn1QjE) 
 - How to setup [Small Office Networking](https://www.youtube.com/playlist?list=PLAHfT9Nte4YqHsYYnE5k1Eli-XCMls3Ge)
+- Guacamole [Opensource Selfhost Remote Desktop](https://www.youtube.com/watch?v=DGw6P5Lkj-U)
 
 
 # All about Subnet Mask
