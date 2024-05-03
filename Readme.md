@@ -48,17 +48,19 @@ A collection of resources for learning networking, security, system administrati
 
 # Other Tutorial
 
-- Windows Server 2022 Tutorial - https://youtube.com/playlist?list=PLUZTRmXEpBy1AdznospPeOSyoYBMQLh2r
-- Installing SAP B1- https://youtu.be/PhTuzMXUgOc
-- Best Free Windows Firewall - https://www.youtube.com/watch?v=qY0XPUJulbE
+- Complete Tutorial of [Windows Server 2022 Tutorial](https://youtube.com/playlist?list=PLUZTRmXEpBy1AdznospPeOSyoYBMQLh2r)
+- Complete Tutorial of How to [Managing Active Directory Environment](https://www.youtube.com/watch?v=sqHa2gN1HsY&list=PLUZTRmXEpBy2QDBF2cssNtYhVqcDgiRnE)
+- Beginer's Tutorial of [Microsoft 365 | Exchange Online](https://www.youtube.com/watch?v=ibNp5w0p6W4&list=PLUZTRmXEpBy0W9bJNme2P9h5XiOnRIFUI)
+- Installing [SAP B1 Server on Windows](https://youtu.be/PhTuzMXUgOc)
+- Best Free [Ooensource Windows Firewall](https://www.youtube.com/watch?v=qY0XPUJulbE) 
 - FREE CyberSecurity Tool SEIM [Security Information & Event Managment](https://www.youtube.com/watch?v=3CaG2GI1kn0)
-- Quick and Easy Local SSL Certificates for Your Homelab! - https://www.youtube.com/watch?v=qlcVx-k-02E
-- How to Configure VLAN in Windows 11, 10, 8 & 7 - https://www.youtube.com/watch?v=72037i0pkMA
-- Real-World Networking Projects - https://www.youtube.com/playlist?list=PLvUOx2WG6R7PlKlERb5zceXxHfC4P7gJn
+- Quick and Easy Local [SSL Certificates for Your Homelab!](https://www.youtube.com/watch?v=qlcVx-k-02E) 
+- How to Configure [VLAN in Windows 11, 10, 8 & 7](https://www.youtube.com/watch?v=72037i0pkMA) 
+- Real-World [Networking Projects using Cisco Packet Tracker](https://www.youtube.com/playlist?list=PLvUOx2WG6R7PlKlERb5zceXxHfC4P7gJn)
 - ITAM - Installing Snipe-IT - [on Ubuntu directly](https://www.youtube.com/watch?v=0SnEAQT78hs) or [on Ubuntu via Docker](https://www.youtube.com/watch?v=lyIIEVT5GYs)
-- OCS : How to build an IT asset inventory server - https://www.youtube.com/watch?v=ijOTemn1QjE
-- Small Office Networking - https://www.youtube.com/playlist?list=PLAHfT9Nte4YqHsYYnE5k1Eli-XCMls3Ge
-- Complete Tutorial of [Managing Active Directory Environment](https://www.youtube.com/watch?v=sqHa2gN1HsY&list=PLUZTRmXEpBy2QDBF2cssNtYhVqcDgiRnE)
+- OCS : How to build an [IT asset inventory server](https://www.youtube.com/watch?v=ijOTemn1QjE) 
+- How to setup [Small Office Networking](https://www.youtube.com/playlist?list=PLAHfT9Nte4YqHsYYnE5k1Eli-XCMls3Ge)
+
 
 # All about Subnet Mask
 
