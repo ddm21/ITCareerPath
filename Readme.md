@@ -62,6 +62,7 @@ A collection of resources for learning networking, security, system administrati
 - Guacamole [Opensource Selfhost Remote Desktop](https://www.youtube.com/watch?v=DGw6P5Lkj-U)
 - [Self host Web application using Coolify (Alternative of Vercel)](https://www.youtube.com/watch?v=44uWIkGZ4W8)
 - Mastering RDP: [How It Works, and Secure Usage](https://www.youtube.com/watch?v=jEPVFR8A-GE&list=WL)
+- Setup [RDP and NLA ( Network Level Authentication ) for unauthorise access](https://www.youtube.com/watch?v=PctGM1pcXkA)
 - Cisco packet tracer: [Subnetting and Classless Addressing](https://www.youtube.com/watch?v=3f9z-upxqW4&list=WL)
 
 # Tools
