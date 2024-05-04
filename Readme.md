@@ -17,6 +17,7 @@ A collection of resources for learning networking, security, system administrati
 
 # Learn Networking, Security and System Administration
 
+- Computer Networking Fundamentals -https://www.youtube.com/watch?v=k9ZigsW9il0&list=WL
 - Basics of Ethernet Cable Coding -https://incentre.net/ethernet-cable-color-coding-diagram
 - Wire Up Ethernet Cable to Connector -https://youtu.be/NWhoJp8UQpo?feature=shared
 - Share a USB Printer In Network - https://youtu.be/_s3yNROUmPk
@@ -60,6 +61,8 @@ A collection of resources for learning networking, security, system administrati
 - How to setup [Small Office Networking](https://www.youtube.com/playlist?list=PLAHfT9Nte4YqHsYYnE5k1Eli-XCMls3Ge)
 - Guacamole [Opensource Selfhost Remote Desktop](https://www.youtube.com/watch?v=DGw6P5Lkj-U)
 - [Self host Web application using Coolify (Alternative of Vercel)](https://www.youtube.com/watch?v=44uWIkGZ4W8)
+- Mastering RDP: [How It Works, and Secure Usage](https://www.youtube.com/watch?v=jEPVFR8A-GE&list=WL)
+- Cisco packet tracer: [Subnetting and Classless Addressing](https://www.youtube.com/watch?v=3f9z-upxqW4&list=WL)
 
 # Tools
 - Opensource IDS/IPS Tools - [Suricata ](https://suricata.io/), [Zeek](https://zeek.org/) & [Security Onion](https://securityonionsolutions.com/)
