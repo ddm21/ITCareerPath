@@ -18,6 +18,7 @@ A collection of resources for learning networking, security, system administrati
 # Learn Networking, Security and System Administration
 
 - Computer Networking Fundamentals -https://www.youtube.com/watch?v=k9ZigsW9il0&list=WL
+- SFP Connections in Minutes (SFP+, SFP28, SFP56)- https://www.youtube.com/watch?v=kIoR8DGr1AU
 - Basics of Ethernet Cable Coding -https://incentre.net/ethernet-cable-color-coding-diagram
 - Wire Up Ethernet Cable to Connector -https://youtu.be/NWhoJp8UQpo?feature=shared
 - Share a USB Printer In Network - https://youtu.be/_s3yNROUmPk
@@ -43,7 +44,7 @@ A collection of resources for learning networking, security, system administrati
 - CCNA 200-301 Complete Course 3 - https://youtube.com/playlist?list=PLhfrWIlLOoKPc2RecyiM_A9nf3fUU3e6g
 - Hyper V Network Configuration - https://www.youtube.com/watch?v=FCIA4YQHx9U
 - [Hyper-v Easy Fix ](https://learn.microsoft.com/en-us/troubleshoot/windows-client/virtualization/cannot-create-hyper-v-virtual-switch)
-- How to create a pfSense Firewall in Hyper-V - https://youtu.be/U7gJ1eOkIOM
+- Install pfSense Firewall in Hyper-V - https://youtu.be/U7gJ1eOkIOM
 
 # Other Tutorial
 
