@@ -24,7 +24,6 @@ A collection of resources for learning networking, security, system administrati
 - Advanced Smart Home Security - VLANs and Firewalls - https://www.youtube.com/watch?v=eqr-vTC7EVk
 - Configure VLANs effectively - https://youtu.be/72037i0pkMA
 - Simplify VLAN concepts - https://youtu.be/JszGeQPTo4w
-- How-to Design and Configure a Home or Small Office Network - https://www.youtube.com/watch?v=Y1LZhNIJxq4
 - pfSense: Open Source Firewall and Routing System -https://www.youtube.com/watch?v=DGdfHp6uAGg
 - Home Lab Network Security - https://www.youtube.com/watch?v=YMHN6Tnah1w
 - Creating a File Server for a Small Company - https://www.youtube.com/watch?v=6x4-vNmzuqU
