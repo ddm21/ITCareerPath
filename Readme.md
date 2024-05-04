@@ -63,7 +63,7 @@ A collection of resources for learning networking, security, system administrati
 - [Self host Web application using Coolify (Alternative of Vercel)](https://www.youtube.com/watch?v=44uWIkGZ4W8)
 
 # Tools
-- Intrusion Detection and Prevention System (IDPS) - [Suricata ](https://suricata.io/), [Zeek](https://zeek.org/) & [Security Onion](https://securityonionsolutions.com/
+- Opensource Intrusion Detection and Prevention System (IDPS) - [Suricata ](https://suricata.io/), [Zeek](https://zeek.org/) & [Security Onion](https://securityonionsolutions.com/
 )
 
 # All about Subnet Mask
