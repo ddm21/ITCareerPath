@@ -14,7 +14,6 @@ A collection of resources for learning networking, security, system administrati
 - Networking Tools - https://www.vcelink.com/
 - Home Security Firewall - https://firewalla.com/collections/all/firewalla
 - DIY Firewall / Mini Server -  https://amzn.in/d/9j9lnCQ ( Sophos as Firewall and HyperV for VMs )
-- Monitor your Network - https://www.networknotepad.com/index.shtml
 
 # Learn Networking, Security and System Administration
 
@@ -63,8 +62,13 @@ A collection of resources for learning networking, security, system administrati
 - [Self host Web application using Coolify (Alternative of Vercel)](https://www.youtube.com/watch?v=44uWIkGZ4W8)
 
 # Tools
-- Opensource Intrusion Detection and Prevention System (IDPS) - [Suricata ](https://suricata.io/), [Zeek](https://zeek.org/) & [Security Onion](https://securityonionsolutions.com/
-)
+- Opensource IDS/IPS Tools - [Suricata ](https://suricata.io/), [Zeek](https://zeek.org/) & [Security Onion](https://securityonionsolutions.com/)
+- Network Notepad (Netwrok diagram and monitoring) - https://www.networknotepad.com/index.shtml
+- Safing Openource Windows Firewall - https://safing.io/
+- Aotomate your Repeatative task using Windows Macro - https://tinytask.net/
+- Find DOmain Category to Block in Fortigate Firewall - https://www.fortiguard.com/webfilter
+- Open Source NVR Software - https://www.ispyconnect.com/
+- .
 
 # All about Subnet Mask
 
