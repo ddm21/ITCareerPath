@@ -65,7 +65,7 @@ A collection of resources for learning networking, security, system administrati
 
 # All about Subnet Mask
 
-| Subnet Mask       | Binary Representation                  | Networks | Hosts |
+| Subnet Mask       | Binary Representation                  | Networks | Usable Hosts |
 |-------------------|----------------------------------------|----------|-------|
 | 255.255.255.0     | 11111111.11111111.11111111.00000000   | 1        | 254   |
 | 255.255.255.128   | 11111111.11111111.11111111.10000000   | 2        | 126   |
