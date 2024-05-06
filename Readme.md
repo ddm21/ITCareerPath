@@ -60,12 +60,12 @@ A collection of resources for learning networking, security, system administrati
 - ITAM - Installing Snipe-IT - [on Ubuntu directly](https://www.youtube.com/watch?v=0SnEAQT78hs) or [on Ubuntu via Docker](https://www.youtube.com/watch?v=lyIIEVT5GYs)
 - OCS : How to build an [IT asset inventory server](https://www.youtube.com/watch?v=ijOTemn1QjE) 
 - How to setup [Small Office Networking](https://www.youtube.com/playlist?list=PLAHfT9Nte4YqHsYYnE5k1Eli-XCMls3Ge)
-- Guacamole [Opensource Selfhost Remote Desktop](https://www.youtube.com/watch?v=DGw6P5Lkj-U)
+- Guacamole: [Opensource Selfhost Remote Desktop](https://www.youtube.com/watch?v=DGw6P5Lkj-U)
 - [Self host Web application using Coolify (Alternative of Vercel)](https://www.youtube.com/watch?v=44uWIkGZ4W8)
 - Mastering RDP: [How It Works, and Secure Usage](https://www.youtube.com/watch?v=jEPVFR8A-GE&list=WL)
 - Setup [RDP and NLA ( Network Level Authentication ) for unauthorise access](https://www.youtube.com/watch?v=PctGM1pcXkA)
 - Cisco packet tracer: [Subnetting and Classless Addressing](https://www.youtube.com/watch?v=3f9z-upxqW4&list=WL)
-- Secure RDP Connection - https://v2cloud.com/blog/secure-rdp
+- Secure RDP: [Protection from Cyber Attacks](https://v2cloud.com/blog/secure-rdp)
 
 # Tools
 - Opensource IDS/IPS Tools - [Suricata ](https://suricata.io/), [Zeek](https://zeek.org/) & [Security Onion](https://securityonionsolutions.com/)
