@@ -65,7 +65,7 @@ A collection of resources for learning networking, security, system administrati
 - Mastering RDP: [How It Works, and Secure Usage](https://www.youtube.com/watch?v=jEPVFR8A-GE&list=WL)
 - Setup [RDP and NLA ( Network Level Authentication ) for unauthorise access](https://www.youtube.com/watch?v=PctGM1pcXkA)
 - Cisco packet tracer: [Subnetting and Classless Addressing](https://www.youtube.com/watch?v=3f9z-upxqW4&list=WL)
-- Secure RDP: [Protection from Cyber Attacks](https://v2cloud.com/blog/secure-rdp)
+- How to Secure RDP: [Protection from Cyber Attacks](https://v2cloud.com/blog/secure-rdp)
 
 # Tools
 - Opensource IDS/IPS Tools - [Suricata ](https://suricata.io/), [Zeek](https://zeek.org/) & [Security Onion](https://securityonionsolutions.com/)
