@@ -46,7 +46,7 @@ A collection of resources for learning networking, security, system administrati
 - [Hyper-v Easy Fix ](https://learn.microsoft.com/en-us/troubleshoot/windows-client/virtualization/cannot-create-hyper-v-virtual-switch)
 - Install pfSense Firewall in Hyper-V - https://youtu.be/U7gJ1eOkIOM
 
-# Other Tutorial
+# Other Tutorial and blogs
 
 - Complete Tutorial of [Windows Server 2022 Tutorial](https://youtube.com/playlist?list=PLUZTRmXEpBy1AdznospPeOSyoYBMQLh2r)
 - Complete Tutorial of How to [Managing Active Directory Environment](https://www.youtube.com/watch?v=sqHa2gN1HsY&list=PLUZTRmXEpBy2QDBF2cssNtYhVqcDgiRnE)
@@ -65,6 +65,7 @@ A collection of resources for learning networking, security, system administrati
 - Mastering RDP: [How It Works, and Secure Usage](https://www.youtube.com/watch?v=jEPVFR8A-GE&list=WL)
 - Setup [RDP and NLA ( Network Level Authentication ) for unauthorise access](https://www.youtube.com/watch?v=PctGM1pcXkA)
 - Cisco packet tracer: [Subnetting and Classless Addressing](https://www.youtube.com/watch?v=3f9z-upxqW4&list=WL)
+- Secure RDP Connection - https://v2cloud.com/blog/secure-rdp
 
 # Tools
 - Opensource IDS/IPS Tools - [Suricata ](https://suricata.io/), [Zeek](https://zeek.org/) & [Security Onion](https://securityonionsolutions.com/)
