@@ -74,6 +74,7 @@ A collection of resources for learning networking, security, system administrati
 - Aotomate your Repeatative task using Windows Macro - https://tinytask.net/
 - Find DOmain Category to Block in Fortigate Firewall - https://www.fortiguard.com/webfilter
 - Open Source NVR Software - https://www.ispyconnect.com/
+- Swiss Army Knife of IT Tools - https://it-tools.tech/
 - .
 
 # All about Subnet Mask
