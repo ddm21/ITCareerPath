@@ -44,6 +44,7 @@ A collection of resources for learning networking, security, system administrati
 - CCNA 200-301 Complete Course 3 - https://youtube.com/playlist?list=PLhfrWIlLOoKPc2RecyiM_A9nf3fUU3e6g
 - Hyper V Network Configuration - https://www.youtube.com/watch?v=FCIA4YQHx9U
 - [Hyper-v Easy Fix ](https://learn.microsoft.com/en-us/troubleshoot/windows-client/virtualization/cannot-create-hyper-v-virtual-switch)
+- This command can reset network for wsl -  wsl --shutdown, netsh winsock reset
 - Install pfSense Firewall in Hyper-V - https://youtu.be/U7gJ1eOkIOM
 
 # Other Tutorial and blogs
@@ -52,7 +53,7 @@ A collection of resources for learning networking, security, system administrati
 - Complete Tutorial of How to [Managing Active Directory Environment](https://www.youtube.com/watch?v=sqHa2gN1HsY&list=PLUZTRmXEpBy2QDBF2cssNtYhVqcDgiRnE)
 - Beginer's Tutorial of [Microsoft 365 | Exchange Online](https://www.youtube.com/watch?v=ibNp5w0p6W4&list=PLUZTRmXEpBy0W9bJNme2P9h5XiOnRIFUI)
 - Installing [SAP B1 Server on Windows](https://youtu.be/PhTuzMXUgOc)
-- Best Free [Ooensource Windows Firewall](https://www.youtube.com/watch?v=qY0XPUJulbE) 
+- Best Free [Opensource Windows Firewall](https://www.youtube.com/watch?v=qY0XPUJulbE) 
 - FREE CyberSecurity Tool SEIM [Security Information & Event Managment](https://www.youtube.com/watch?v=3CaG2GI1kn0)
 - Quick and Easy Local [SSL Certificates for Your Homelab!](https://www.youtube.com/watch?v=qlcVx-k-02E) 
 - How to Configure [VLAN in Windows 11, 10, 8 & 7](https://www.youtube.com/watch?v=72037i0pkMA) 
@@ -72,7 +73,7 @@ A collection of resources for learning networking, security, system administrati
 - Network Notepad (Netwrok diagram and monitoring) - https://www.networknotepad.com/index.shtml
 - Safing Openource Windows Firewall - https://safing.io/
 - Aotomate your Repeatative task using Windows Macro - https://tinytask.net/
-- Find DOmain Category to Block in Fortigate Firewall - https://www.fortiguard.com/webfilter
+- Find Domain Category to Block in Fortigate Firewall - https://www.fortiguard.com/webfilter
 - Open Source NVR Software - https://www.ispyconnect.com/
 - Swiss Army Knife of IT Tools - https://it-tools.tech/
 - Printer Drivers - https://printerdrivers.com/
