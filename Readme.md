@@ -81,6 +81,9 @@ A collection of resources for learning networking, security, system administrati
 - Windows Generic Keys - [source01](https://gist.github.com/judero01col/4eac6f01f3fe64a48924b229c6427f01), [source02](https://learn.microsoft.com/en-us/windows-server/get-started/kms-client-activation-keys), [source03](https://www.windowsafg.com/keys.html),
 - .
 
+# Misc
+- RDP Login Credentail localtion - Computer\HKEY_CURRENT_USER\SOFTWARE\Microsoft\Terminal Server Client\Default
+
 # All about Subnet Mask
 
 | Subnet Mask       | Binary Representation                  | Networks | Usable Hosts |
