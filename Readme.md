@@ -68,7 +68,7 @@ A collection of resources for learning networking, security, system administrati
 - Cisco packet tracer: [Subnetting and Classless Addressing](https://www.youtube.com/watch?v=3f9z-upxqW4&list=WL)
 - How to Secure RDP: [Protection from Cyber Attacks](https://v2cloud.com/blog/secure-rdp)
 
-# Tools
+# Tools & Other Resources
 - Opensource IDS/IPS Tools - [Suricata ](https://suricata.io/), [Zeek](https://zeek.org/) & [Security Onion](https://securityonionsolutions.com/)
 - Network Notepad (Netwrok diagram and monitoring) - https://www.networknotepad.com/index.shtml
 - Safing Openource Windows Firewall - https://safing.io/
@@ -81,7 +81,7 @@ A collection of resources for learning networking, security, system administrati
 - Windows Generic Keys - [source01](https://gist.github.com/judero01col/4eac6f01f3fe64a48924b229c6427f01), [source02](https://learn.microsoft.com/en-us/windows-server/get-started/kms-client-activation-keys), [source03](https://www.windowsafg.com/keys.html)
 - Create Ubuntu VMs like Docker using [Multipass](https://multipass.run) `Defalut instance is C:\ProgramData\Multipass`
 - CLI Command for Multipass - https://multipass.run/docs/multipass-cli-client
-- 
+- Ubuntu CLI CHeat Sheet - https://linuxsimply.com/cheat-sheets/ubuntu-commands/
 - .
 
 # Misc
