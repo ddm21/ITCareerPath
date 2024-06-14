@@ -81,7 +81,7 @@ A collection of resources for learning networking, security, system administrati
 - Windows Generic Keys - [source01](https://gist.github.com/judero01col/4eac6f01f3fe64a48924b229c6427f01), [source02](https://learn.microsoft.com/en-us/windows-server/get-started/kms-client-activation-keys), [source03](https://www.windowsafg.com/keys.html)
 - Create Ubuntu VMs like Docker using [Multipass](https://multipass.run) `Defalut instance is C:\ProgramData\Multipass`
 - CLI Command for Multipass - https://multipass.run/docs/multipass-cli-client
-- Ubuntu CLI CHeat Sheet - https://linuxsimply.com/cheat-sheets/ubuntu-commands/
+- Ubuntu CLI Cheat Sheet - [source-1](https://linuxsimply.com/cheat-sheets/ubuntu-commands/), [source-2](https://cheatography.com/tag/ubuntu/)
 - .
 
 # Misc
