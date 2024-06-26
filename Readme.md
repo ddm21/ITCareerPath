@@ -84,6 +84,7 @@ A collection of resources for learning networking, security, system administrati
 - Ubuntu CLI Cheat Sheet - [source-1](https://linuxsimply.com/cheat-sheets/ubuntu-commands/), [source-2](https://cheatography.com/tag/ubuntu/)
 - Selfhost Email Archiving services - [Apider Email Archiving](https://spiderd.io/, [Mailpiler](https://www.mailpiler.org/)
 - Host your very own [Helpdesk](https://peppermint.sh/)
+- Older Versions of [Anydesk](https://anydesk.en.uptodown.com/windows/versions) 
 - .
 
 # Misc
