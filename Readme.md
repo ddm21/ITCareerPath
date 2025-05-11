@@ -146,7 +146,7 @@ A curated list of essential IT courses and certifications for aspiring and curre
 - [x] [**IT Support Technical Skills Helpdesk**](https://www.udemy.com/course/it-support-beginners-course/?couponCode=KEEPLEARNING)
 - [ ] [**IT Asset Management (ITAM) – Software Asset Management**](https://www.udemy.com/course/it-asset-management-itam-software-asset-management)
 - [ ] [**Desktop IT Support Level 1 & 2 (Troubleshooting)**](https://www.udemy.com/course/desktop-support)
-- [ ] [**Advanced Windows Performance Troubleshooting**](https://www.udemy.com/course/how-to-troubleshoot-windows-performance-with-wpt)
+- [x] [**Advanced Windows Performance Troubleshooting**](https://www.udemy.com/course/how-to-troubleshoot-windows-performance-with-wpt)
 - [ ] [**IT Professional: PC Troubleshooting & Helpdesk Career Course**](https://www.udemy.com/course/it-professional-pc-troubleshooting-helpdesk-career)
 - [ ] [**Start and Run a Successful IT Support Company**](https://www.udemy.com/course/start-and-run-a-successful-it-support-company)
 - [x] [**TOTAL: CompTIA A+ Core 1 (220-1101) Course + Exam**](https://www.udemy.com/course/comptia-aplus-core-1)
