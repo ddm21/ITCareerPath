@@ -140,4 +140,32 @@ Courses and Job Description
 - [CompTIA A+ Core 1 (220-1101) Course](https://www.udemy.com/course/comptia-aplus-core-1/?couponCode=NVDPRODIN35)
 - [CompTIA A+ Core 2 (220-1102) Course](https://www.udemy.com/course/comptia-aplus-core-2/?couponCode=NVDPRODIN35)
 - [AWS Certified Solutions Architect Associate SAA-C03](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/?couponCode=NVDPRODIN35)
+
+## ✅ IT Courses and Certifications Checklist
+
+A curated list of essential IT courses and certifications for aspiring and current IT professionals.
+
+### 🎓 Courses
+
+- [ ] [**IT Support Technical Skills Helpdesk**](https://www.udemy.com/course/it-support-beginners-course/?couponCode=KEEPLEARNING)
+- [ ] [**Windows Server 2022 Administration**](https://www.udemy.com/course/windows-server-2022-administration-d)
+- [ ] [**IT Asset Management (ITAM) – Software Asset Management**](https://www.udemy.com/course/it-asset-management-itam-software-asset-management)
+- [ ] [**LPI Linux Essentials (010-160) Complete Course**](https://www.udemy.com/course/linux-essentials-010)
+- [ ] [**Desktop IT Support Level 1 & 2 (Troubleshooting)**](https://www.udemy.com/course/desktop-support)
+- [ ] [**CompTIA Network+ (N10-009) Full Course & Practice Exam**](https://www.udemy.com/course/comptia-network-009)
+- [ ] [**CompTIA Security+ (SY0-701) Complete Course & Practice Exam**](https://www.udemy.com/course/securityplus)
+- [ ] [**Advanced Windows Performance Troubleshooting**](https://www.udemy.com/course/how-to-troubleshoot-windows-performance-with-wpt)
+- [ ] [**IT Professional: PC Troubleshooting & Helpdesk Career Course**](https://www.udemy.com/course/it-professional-pc-troubleshooting-helpdesk-career)
+- [ ] [**English for IT Professionals: Communication**](https://www.udemy.com/course/business-english-in-it-meetings-feedback-and-emails)
+- [ ] [**Start and Run a Successful IT Support Company**](https://www.udemy.com/course/start-and-run-a-successful-it-support-company)
+- [x] [**TOTAL: CompTIA A+ Core 1 (220-1101) Course + Exam**](https://www.udemy.com/course/comptia-aplus-core-1)
+- [ ] [**TOTAL: CompTIA A+ Core 2 (220-1102) Course + Exam**](https://www.udemy.com/course/comptia-aplus-core-2)
+- [ ] [**TOTAL: CompTIA Tech+ (FC0-U71)**](https://www.udemy.com/course/it-fundamentals-fc0-u61-the-total-course)
+- [ ] [**TOTAL: CompTIA Server+ (SK0-005): 4 Practice Tests 200 Q’s**](https://www.udemy.com/course/total-comptia-server-sk0-005-4-practice-tests-200qs)
+- [x] [**MS-102 Microsoft 365 Administrator Expert course with SIMS**](https://www.udemy.com/course/ms100course/)
+- [ ] [**The Complete Networking Fundamentals Course. Your CCNA start**](https://www.udemy.com/course/complete-networking-fundamentals-course-ccna-start/)
+- [ ] [**CCNA Course 200-301 by Network Chuck**](https://academy.networkchuck.com/ccna)
+- [x] [**AWS Certified Solutions Architect Associate SAA-C03**](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/?couponCode=NVDPRODIN35)
+- [ ] [**I.T. Project Management for Beginners: A Step-by-Step Guide**](https://www.udemy.com/course/it-project-management-for-beginners-a-step-by-step-guide)
+
   
