@@ -133,13 +133,9 @@ A collection of resources for learning networking, security, system administrati
 5. System Administrator
 6. System Engineer
 
-Courses and Job Description
+Job Description
 - https://www.comptia.org/content/it-careers-path-roadmap/it-support-specialist
 - Job description of IT Specialist - https://youtu.be/vsjZvSbFtWw?feature=shared
-- [CCNA Course 200-301 by Network Chuck](https://academy.networkchuck.com/ccna)
-- [CompTIA A+ Core 1 (220-1101) Course](https://www.udemy.com/course/comptia-aplus-core-1/?couponCode=NVDPRODIN35)
-- [CompTIA A+ Core 2 (220-1102) Course](https://www.udemy.com/course/comptia-aplus-core-2/?couponCode=NVDPRODIN35)
-- [AWS Certified Solutions Architect Associate SAA-C03](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/?couponCode=NVDPRODIN35)
 
 ## ✅ IT Courses and Certifications Checklist
 
