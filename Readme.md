@@ -66,6 +66,7 @@ A collection of resources for learning networking, security, system administrati
 - Mastering RDP: [How It Works, and Secure Usage](https://www.youtube.com/watch?v=jEPVFR8A-GE&list=WL)
 - Setup [RDP and NLA ( Network Level Authentication ) for unauthorise access](https://www.youtube.com/watch?v=PctGM1pcXkA)
 - Cisco packet tracer: [Subnetting and Classless Addressing](https://www.youtube.com/watch?v=3f9z-upxqW4&list=WL)
+- Youtube Playlist of Networkchuck - [You Suck at Subnetting](https://youtube.com/playlist?list=PLIhvC56v63IKrRHh3gvZZBAGvsvOhwrRF)
 - How to Secure RDP: [Protection from Cyber Attacks](https://v2cloud.com/blog/secure-rdp)
 - Understand Baremetal: [Cloud vs Baremetal](https://youtu.be/vFxQyZX84Ro)
 - Login to Personal Gmail with [App Password](https://myaccount.google.com/apppasswords)
